@@ -4,7 +4,7 @@
   "version": "0.2.0",
   "displayName": "Funclip Commander",
   "description": "AI-powered video recognition and clipping via FunClip. Supports Buzz (offline), OpenAI Whisper (cloud), and FunASR backends with configurable language.",
-  "author": "RuneweaverStudios",
+  "author": "austindixson",
   "main": "scripts/funclip_commander.py",
   "tags": [
     "video",

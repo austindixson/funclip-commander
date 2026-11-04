@@ -6,7 +6,7 @@
 
 ```bash
 # Install to OpenClaw skills directory
-git clone https://github.com/RuneweaverStudios/funclip-commander.git
+git clone https://github.com/austindixson/funclip-commander.git
 cp -r funclip-commander ~/.openclaw/workspace/skills/
 
 # Recognize speech in a video
